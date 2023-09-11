@@ -77,4 +77,4 @@ May 2020 - April 2022
 - French (Basic Conversational)
 
 [GitHub](https://github.com/ebosetalee)   
-[Portfolio](https://ebosetale.github.io)
+[Portfolio](https://ebosetalee.github.io)
