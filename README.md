@@ -2,7 +2,7 @@
 __Backend Developer__
 
 ### Contact:
-Phone: +234 (0) 9053560194
+Phone: +356 99032090
 
 Email: ertukpe@gmail.com
 
@@ -20,13 +20,13 @@ September 2021 - Present
 - Implemented screening feature using Mono API.
 
 ### Software Developer | Zedi Africa (Remote, Full Time)
-May 2022 - Present
+May 2022 - October 2023
 - Introduced Agile practices, conducted peer code reviews, and focused on documentation and testing.
 - Built and deployed scalable backend services, mobile applications (Android and iOS), and web clients using Node.js and TypeScript.
 - Implemented notifications and message queueing with RabbitMQ.
 - Integrated third-party APIs and SDKs (e.g., Flutterwave, Shopify).
 
-### Software Developer | Scenario Developer (Remote, Full Time)
+### Software Developer | Klluster (Remote, Contract)
 July 2021 - January 2022
 - Created API endpoints for web and mobile using TypeScript/Node.js.
 - Designed database structures with MySQL (TypeORM) and utilized Docker containers.
